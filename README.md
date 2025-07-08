@@ -46,16 +46,4 @@ java -cp target/Concurrencia-0.0.1-SNAPSHOT.jar escuelaing.edu.arsw.Concurrencia
 - Spring Boot (solo para pruebas, no es necesario para la simulación principal)
 
 ## Ejemplo de Salida
-- - - - - - - - - -
-- # - - - # - - - -
-- - N - - - - # - -
-- - - # - - - - - -
-- - - - - - - - - -
-- - - - - - - - - -
-- - - - - - - - - -
-- - - - - - - - - -
-- - - - - - - - - -
-- - - - - - - - - P
-
-Neo llegó al teléfono!
-Fin del juego
+![alt text](<resources/Captura de pantalla 2025-07-08 123606.png>)
